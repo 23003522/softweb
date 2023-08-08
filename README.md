@@ -26,6 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 {% load static %}
 <html lang="en">
@@ -407,6 +408,7 @@ Publish the website in the given URL.
   </body>
  
 </html>
+```
 
 ## OUTPUT:
 
