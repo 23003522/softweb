@@ -412,13 +412,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![image](https://github.com/23003522/softweb/assets/138849213/0da42731-e896-4de5-9266-f31889331b25)
+![Screen Shot 2023-08-09 at 2 42 24 PM](https://github.com/23003522/softweb/assets/138849213/8af1d91a-ad41-4cca-be33-219f8c9a6259)
+![Screen Shot 2023-08-09 at 2 48 04 PM](https://github.com/23003522/softweb/assets/138849213/3da727a8-b60b-4cf6-85d2-605587e6367f)
+![Screen Shot 2023-08-09 at 2 49 56 PM 1](https://github.com/23003522/softweb/assets/138849213/0355a8b3-edcc-45e9-a73b-8481dea2ea2c)
 
-![image](https://github.com/23003522/softweb/assets/138849213/878d5fb0-aa93-490a-ad72-064960488ab1)
-
-![image](https://github.com/23003522/softweb/assets/138849213/c3bce47b-d8bc-4289-86a6-746100ee639f)
-
-![image](https://github.com/23003522/softweb/assets/138849213/8e179028-fe74-4809-949e-010e2c14c16d)
+![Screen Shot 2023-08-09 at 2 52 41 PM](https://github.com/23003522/softweb/assets/138849213/0255d098-67de-41e9-8f92-81fd8703a6ba)
 
 
 
