@@ -720,7 +720,9 @@ styles.css
 ## OUTPUT:
 
 ![Screen Shot 2023-08-09 at 2 42 24 PM](https://github.com/23003522/softweb/assets/138849213/8af1d91a-ad41-4cca-be33-219f8c9a6259)
-![Screen Shot 2023-08-09 at 2 48 04 PM](https://github.com/23003522/softweb/assets/138849213/3da727a8-b60b-4cf6-85d2-605587e6367f)
+![contact](https://github.com/23003522/softweb/assets/138849213/03ce1467-1288-4dea-82ce-c1f8cfacfabe)
+
+
 ![Screen Shot 2023-08-09 at 2 49 56 PM 1](https://github.com/23003522/softweb/assets/138849213/0355a8b3-edcc-45e9-a73b-8481dea2ea2c)
 
 ![Screen Shot 2023-08-09 at 2 52 41 PM](https://github.com/23003522/softweb/assets/138849213/0255d098-67de-41e9-8f92-81fd8703a6ba)
